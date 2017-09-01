@@ -17,7 +17,7 @@ class ReminderView: View() {
             style{
                 alignment = Pos.CENTER
             }
-            imageview("whitePushups.png")//TODO: credit the illustrator
+            imageview("whitePushups.png")//TODO: credit the illustrator, image used from https://www.flaticon.com/free-icon/stick-man-variant-doing-push-ups-from-the-ground_31660
             label("Push Ups"){
                 textFill = Color.WHITE
                 style{
